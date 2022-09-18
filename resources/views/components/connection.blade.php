@@ -1,4 +1,4 @@
-<div class="my-2 shadow text-white bg-dark p-1" id="">
+<div class="my-2 shadow text-white bg-dark p-1" id="connections">
   <div class="d-flex justify-content-between">
     <table class="ms-1">
       <td class="align-middle">Name</td>
